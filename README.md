@@ -1,4 +1,4 @@
-# Hi, I’m Jun Zhou 👋
+# Hi, I’m Jun, a DEveloper located at Bay Area 👋
 
 #### Software Engineer (ex-Mechanical Engineer) • Java | Python | React
 
