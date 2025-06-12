@@ -1,15 +1,8 @@
-# Hi, I’m Jun👋
+# Hi, I’m Jun Zhou 👋
 
-#### Software Engineer | Microservices & Web Applications
+#### Software Engineer (ex-Mechanical Engineer) • Java | Python | React
 
-I’m a dedicated engineer with a strong track record of designing and delivering scalable, end-to-end software solutions. Over the past few years, I’ve:
-
-* Engineered high-throughput Spring Boot microservices (FIX ingestion, currency conversion) with fault-tolerant service discovery and real-time communication.
-* Built dynamic React frontends featuring live search, responsive Flexbox layouts, and real-time data dashboards.
-* Implemented robust CI/CD pipelines using GitHub Actions, Docker containers, and Kubernetes (EKS) deployments.
-* Leveraged cloud services (AWS S3, Lambda), Redis caching, and MySQL/H2 databases for reliable data storage and performance optimization.
-
-My passion is transforming complex requirements into maintainable, production-ready applications that drive business value.
+Transitioned from mechanical engineering into software development, I build scalable microservices and dynamic web apps that solve real-world challenges.
 
 ---
 
