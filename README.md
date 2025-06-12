@@ -2,7 +2,7 @@
 
 #### Software Engineer (ex-Mechanical Engineer) • Java | Python | React
 
-Transitioned from mechanical engineering into software development, I build scalable microservices and dynamic web apps that solve real-world challenges.
+With hands‑on software development expertise and a mechanical engineering foundation, I design and implement robust microservices, responsive web applications, and data‑driven tools that deliver real‑world impact.
 
 ---
 
