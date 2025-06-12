@@ -1,4 +1,4 @@
-# Hi, I’m Jun Zhou 👋
+# Hi, I’m Jun👋
 
 #### Software Engineer | Microservices & Web Applications
 
