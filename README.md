@@ -46,12 +46,6 @@ An end‑to‑end AI pipeline in Colab for recognizing food items and estimating
 
 ---
 
-## 📊 GitHub Stats
-
-![Jun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vpexxi\&show_icons=true\&theme=radical)
-
----
-
 ## 🤝 Open-Source & Community
 
 * Contributed parsing improvements to **QuickFIX/J** for more robust FIX handling.
