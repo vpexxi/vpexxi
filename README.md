@@ -31,7 +31,7 @@ With hands‑on software development expertise and a mechanical engineering foun
 ## 📫 Let’s Connect
 
 * 📧 [jyzeeg@gmail.com](mailto:jyzeeg@gmail.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/jun-zhou/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/jun-zhou-a97097129)
 * 🌐 [Portfolio](https://junzhou.dev) (coming soon)
 
 **Open to SDE opportunities in Bay Area & remote**
