@@ -1,6 +1,7 @@
 # Hi, I’m Jun, a developer based in the Bay Area 👋
 
 #### Software Engineer (ex-Mechanical Engineer) • Java | Python | React
+With hands‑on software development expertise and a mechanical engineering foundation, I design and implement robust microservices, responsive web applications, and data‑driven tools that deliver real‑world impact.
 
 - 🎓 **Background:** Mechanical Engineering @ UCLA → Full-Stack Java Developer 
 - 💻 **Current Focus:** Building scalable microservices, responsive web apps, and ML-powered tools  
