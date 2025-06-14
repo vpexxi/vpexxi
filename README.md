@@ -2,8 +2,12 @@
 
 #### Software Engineer (ex-Mechanical Engineer) • Java | Python | React
 
-With hands‑on software development expertise and a mechanical engineering foundation, I design and implement robust microservices, responsive web applications, and data‑driven tools that deliver real‑world impact.
-
+- 🎓 **Background:** Mechanical Engineering @ UCLA → Full-Stack Java Developer 
+- 💻 **Current Focus:** Building scalable microservices, responsive web apps, and ML-powered tools  
+- 🌱 **Learning:** UnJS ecosystem (Nitro, H3, etc.) & cloud-native best practices  
+- 🌐 **Open Source:** Contributor in trading-tech and AI projects  
+- ⚡️ **Fun Fact:** Always up for a coding jam **or** a tennis rally! 🎾
+  
 ---
 
 ## 🚀 What I Do
