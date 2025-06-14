@@ -5,7 +5,7 @@ With hands‑on software development expertise and a mechanical engineering foun
 
 
 - 💻 **Current Focus:** Building scalable microservices, responsive web apps, and ML-powered tools
-- 🎓 **Background:** Mechanical Engineering @ UCLA → Full-Stack Java Developer 
+- 🎓 **Background:** Mechanical Engineering  → Full-Stack Java Developer 
 - 🌱 **Learning:** UnJS ecosystem (Nitro, H3, etc.) & cloud-native best practices  
 - 😄 **Pronouns:** He / Him / His  
 - 🎯 **Career Focus:** Actively seeking calibration, mentorship, and real-world projects
