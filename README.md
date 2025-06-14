@@ -8,7 +8,7 @@ With hands‑on software development expertise and a mechanical engineering foun
 - 🎓 **Background:** Mechanical Engineering @ UCLA → Full-Stack Java Developer 
 - 🌱 **Learning:** UnJS ecosystem (Nitro, H3, etc.) & cloud-native best practices  
 - 😄 **Pronouns:** He / Him / His  
-- 🎯 **Career Focus:** Actively seeking calibration, mentorship, and real-world projects to land SDE or ML roles  
+- 🎯 **Career Focus:** Actively seeking calibration, mentorship, and real-world projects
 - 🏆 **interests:** Competitive programming on LeetCode & Codeforces—solving algorithms and coding challenges daily
 - 🎧 **Coding & Tennis Playlist:** 🎶 [JamTracks for Code & Court](https://open.spotify.com/playlist/37i9dQZF1DX2sUQwD7tbmL)  
 - 📚 **Currently Reading:** 📖 Cracking the Coding Interview by Gayle Laakmann McDowell  
