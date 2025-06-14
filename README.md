@@ -9,7 +9,7 @@ With hands‑on software development expertise and a mechanical engineering foun
 - 🌱 **Learning:** UnJS ecosystem (Nitro, H3, etc.) & cloud-native best practices  
 - 😄 **Pronouns:** He / Him / His  
 - 🎯 **Career Focus:** Actively seeking calibration, mentorship, and real-world projects to land SDE or ML roles  
-- 🏆 **Currently Learning:** Competitive programming on LeetCode & Codeforces—solving algorithms and coding challenges daily
+- 🏆 **interests:** Competitive programming on LeetCode & Codeforces—solving algorithms and coding challenges daily
 - 🎧 **Coding & Tennis Playlist:** 🎶 [JamTracks for Code & Court](https://open.spotify.com/playlist/37i9dQZF1DX2sUQwD7tbmL)  
 - 📚 **Currently Reading:** 📖 Cracking the Coding Interview by Gayle Laakmann McDowell  
 - 🌐 **Languages & Travels:** 🗣️ English, Mandarin, Cantonese · Visited: Japan, France, Canada  
